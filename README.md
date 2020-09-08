@@ -3,11 +3,11 @@
 <!--
 **minjikim-coding/minjikim-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-***Minji Kim***
+**Minji Kim**
 Hi. this is minji. I value what i bump into and experience.
 I want ti become front-end developter who can finish thinking and worrying in 3 seconds and immediately move to action.
 
-***Interest***
+**Interest**
  - Front-end technologies such as Html, CSS, JavaScript, React, etc.
  - Data Analysis and Visualization (Python, R)
  - Dringking coffee, and petting my cat
